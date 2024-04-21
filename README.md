@@ -1,6 +1,6 @@
 # Hi there, I'm [Aseel shaheen]! 👋
 
-![Banner Image](https://i.imgur.com/xA59SsG.png)
+![Banner Image] <img src="https://i.imgur.com/xA59SsG.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
 
 ## About Me 🚀
 
