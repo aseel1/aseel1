@@ -1,10 +1,10 @@
 # Hi there, I'm [Aseel shaheen]! 👋
 
-![Banner Image](your_banner_image_url_here)
+(https://imgur.com/xA59SsG)
 
 ## About Me 🚀
 
-I'm a passionate **[computer science]** with experience in **[software engineering]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **computer science** with experience in **software engineering**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[machine learning, computer vision]**
 - 🔭 Working on: **[Full stack project for Fun]**
@@ -29,12 +29,12 @@ I'm a passionate **[computer science]** with experience in **[software engineeri
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Customer-Data-Tracker]** is a **[information system designed to track Customers orders and actions]** built with **[html/CSS/jQuery for FrontEnd and Django (python) for Backend]**. This project demonstrates my ability to **[learn new stuff from scratch and develop team work]**. You can check out the repository [here](https://github.com/eliasShah/Costumer-Data-Tracker.git).
+**[Customer-Data-Tracker]** is a **information system designed to track Customers orders and actions** built with **[html/CSS/jQuery for FrontEnd and Django (python) for Backend]**. This project demonstrates my ability to *[learn new stuff from scratch and develop team work**. You can check out the repository [here](https://github.com/eliasShah/Costumer-Data-Tracker.git).
 
 ## Get in Touch 📬
 
 
-- **[LinkedIn]**(www.linkedin.com/in/aseel-shaheen-8983b6279)
+- **LinkedIn**(www.linkedin.com/in/aseel-shaheen-8983b6279)
   
 
 
