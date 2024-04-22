@@ -1,4 +1,4 @@
-# Hi there, I'm [Aseel shaheen]! 👋
+# Hi there, I'm Aseel shaheen! 👋
 
 <img src="https://i.imgur.com/s5ugKlk.png" alt="Avatar" style="border-radius: 50%; width: 100%; object-fit: cover; quality: high;">
 
@@ -26,9 +26,8 @@ I'm a passionate **computer science** with experience in **software engineering*
 
 ## Featured Projects 💻
 
-### [Optica-Store-Customer-data-Tracker](https://github.com/eliasShah/Costumer-Data-Tracker.git)
+### [Optical-Store-Customer-data-Tracker](https://github.com/eliasShah/Costumer-Data-Tracker.git)
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Customer-Data-Tracker]** is a **information system designed to track Customers orders and actions** built with **[html/CSS/jQuery for FrontEnd and Django (python) for Backend]**. This project demonstrates my ability to *[learn new stuff from scratch and develop team work**. You can check out the repository [here](https://github.com/eliasShah/Costumer-Data-Tracker.git).
 
