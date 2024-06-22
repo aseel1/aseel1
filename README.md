@@ -11,7 +11,7 @@ I'm a passionate **computer science** with experience in **software engineering*
 - 🔭 Working on: **[Full stack project for Fun]**
 - 🌍 Languages: **[C\C++\python]**
 - 📫 How to reach me: **[aseelshaheen1@gmail.com]**
-- ⚡ Fun fact: **[dedicated to dedication]**
+- ⚡ Fun fact: **[Always On time]**
 
 ## My Skills 🧠
 
