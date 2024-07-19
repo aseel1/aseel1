@@ -8,7 +8,7 @@
 I'm a passionate **computer science** with experience in **software engineering**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[machine learning, computer vision]**
-- 🔭 Working on: **[Full stack project for Fun]**
+- 🔭 Working on: **[Full stack project]**
 - 🌍 Languages: **[C\C++\python]**
 - 📫 How to reach me: **[aseelshaheen1@gmail.com]**
 - ⚡ Fun fact: **[Always On time]**
