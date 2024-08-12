@@ -22,7 +22,6 @@ I'm a passionate **computer science** with experience in **software engineering*
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-CC2927?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMElEQVR42mP4//8/AwgwaiAIIMQyKMgjFIMhqAIowSAikwWCIJFBwMDkRAiiIJQMwBjLIMIcMzABgwAFHBlF9mJmpAAAAAElFTkSuQmCC)
 
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
