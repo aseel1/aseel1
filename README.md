@@ -5,15 +5,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **computer science** with experience in **software engineering**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[machine learning, computer vision]**
 - 🔭 Working on: **[Full stack project]**
 - 🌍 Languages: **[C\C++\python]**
 - 📫 How to reach me: **[aseelshaheen1@gmail.com]**
-- ⚡ Fun fact: **[Always On time]**
 
-## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
