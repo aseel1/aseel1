@@ -1,8 +1,6 @@
 # Hi there, I'm Aseel shaheen! 👋
 
-<img src="https://i.imgur.com/s5ugKlk.png" alt="Avatar" style="border-radius: 50%; width: 100%; object-fit: cover; quality: high;">
-
-
+<img src="https://i.imgur.com/SKKJoTj.png" alt="Avatar" style="border-radius: 50%; width: 100%; object-fit: cover;">
 ## About Me 🚀
 
 
