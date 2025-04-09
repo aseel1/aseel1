@@ -1,8 +1,11 @@
 # Hi there, I'm Aseel shaheen! 👋
 
 <img src="https://i.imgur.com/SKKJoTj.png" alt="Avatar" style="border-radius: 50%; width: 100%; object-fit: cover;">
+
 ## About Me 🚀
 
+[![Aseel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseel1&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseel1&hide=jupyter%20notebook,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 Academic focuses: **[ML/DL, Geomtery Processing]**
 - 🔭 Working in: **[Software Engineer at INFROMATIKA-LTD]**
